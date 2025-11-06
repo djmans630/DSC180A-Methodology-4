@@ -10,4 +10,6 @@ syntax_highlighter: rouge
 theme: jekyll-theme-minimal
 title: DSC180A Methodology 4
 description: This is a static site for DSC180A Methodology assignment 4
+plugins:
+- jekyll-remote-theme
 
